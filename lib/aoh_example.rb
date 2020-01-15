@@ -15,7 +15,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-[ DON_G = { :name=>"Don Gately", :occupation=> "Live-in Staff" },
+[ DON_G = {:name=>"Don Gately", :occupation=> "Live-in Staff" },
   JOELLE_VD = { :name=>"Joelle van Dyne", :occupation=>"Radio Personality" },
   PAT_M =  { :name=>"Pat Monteseian", :occupation=>"Staff" },
   KATE_G = { :name=>"Kate Gompert", :occupation=>"None" },
